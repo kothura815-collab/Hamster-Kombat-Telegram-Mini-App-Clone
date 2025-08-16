@@ -1,5 +1,14 @@
 # Hamster Kombat Clone
 
+<div align="center">
+  <img src="https://nikandr.com/og-image.jpg" alt="Nikandr - Premium Telegram Development Resources" width="600"/>
+  
+  🚀 **Looking to master Telegram Mini App development?**  
+  Visit [nikandr.com](https://nikandr.com) for the best premium content and courses for Telegram developers.
+</div>
+
+---
+
 This repository contains the initial setup and the final version of the Hamster Kombat clone project, including the basic project structure, necessary images, and icons.
 
 ## Overview
